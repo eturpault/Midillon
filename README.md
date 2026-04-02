@@ -5,6 +5,12 @@ Un fichier de définition de carillon peut être fourni à Midillon pour simuler
 
 <img width="1352" height="632" alt="image" src="https://github.com/user-attachments/assets/894d14b0-00f8-4148-8bd4-b95a4387920f" />
 
+Utilisation :
+- installer Python sur son ordinateur (version 3.12 ou plus ancien)
+- installer sur son ordinateur les librairies Python supplémentaires : sounddevice, mido, rtmidi
+- télécharger les fichiers de ce repository, en particulier midillon.py
+- exécuter midillon.py
+  
 -----------------------------------------------------------------------
 MIDI carillon permitting to play a virtual carillon from a MIDI file or a MIDI keyboard, using carillon bells audio samples.
 User interface in French.
